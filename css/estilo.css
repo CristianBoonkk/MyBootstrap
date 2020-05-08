@@ -1,0 +1,31 @@
+body{
+	background: url(../img/Fondo1.png);
+	color: black;
+	font-family: monospace;
+}
+.row{
+	margin-top: 50px;
+}
+a{
+	margin: 8px;
+}
+img{
+	border-radius: 50%;
+
+}
+#diseño{
+	font-size: 15px;
+
+}
+#collapseOne{
+	font-family: monospace;
+}
+#collapseTwo{
+	font-family: monospace;
+}
+#collapseThree{
+	font-family: monospace;
+}
+.well{
+	background: #6ED8FF;
+}
